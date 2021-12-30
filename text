@@ -1,0 +1,16 @@
+<h2>Install</h2>
+      <ul>
+        <li>git init</li>
+        <li>git status</li>
+        <li>git commit -m [desc]</li>
+        <li>git remote add origin [url]</li>
+        <li>git push origin [master or main]</li>
+        <li>git pull origin [master or main]</li>
+      </ul>
+      <h2>Delete</h2>
+      <ul>
+        <li>git push origin --delete master</li>
+      </ul>
+
+tree구조 설치 === npm install react-tree-graph --save
+run build 해야 client가 볼 수 있다 => deploy process 필요
